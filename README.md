@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @DMAgit
-
 I'm an Artificial Intelligence student, currently at Tilbrug Univeristy. 
 I mostly program in Python.
 This is my personal GitHub profile; it contains some personal projects I've worked on over the years. 
