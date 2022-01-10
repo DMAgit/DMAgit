@@ -1,4 +1,4 @@
-2022 NYR - Have a commit every day. 10/365 
+2022 NYR - Have a git commit every day. 10/365 
 
 I'm an Artificial Intelligence student.
 
