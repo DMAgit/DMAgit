@@ -1,3 +1,5 @@
+2022 NYR - Have a commit every day. 10/365 
+
 I'm an Artificial Intelligence student.
 
 Graduated with a BSc at Tilburg Univeristy, currently doing MSc at Utrecht University.
